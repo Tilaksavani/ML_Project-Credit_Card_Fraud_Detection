@@ -50,6 +50,10 @@ The Jupyter Notebook (`credit_card_fraud_detection.ipynb`) guides you through th
     - Try other classification algorithms for comparison (e.g., Random Forest, Support Vector Machines).
     - Explore advanced techniques like SMOTE (handling imbalanced data).
 
+### Resources
+  -  Sklearn Logistic Regression Documentation: [https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+  -  Kaggle Credit Clard Fraud dataset Description: [https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
 
 ### Further Contributions
 
